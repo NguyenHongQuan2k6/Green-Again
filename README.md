@@ -43,6 +43,12 @@ The project combines environmental education with engaging gameplay mechanics, a
 Instead of simply presenting environmental issues, the game encourages players to actively participate in solving them through interactive missions and rewarding progression systems.
 
 ---
+#  Play the Game
+
+| Platform | Link |
+|----------|------|
+|  Roblox | https://www.roblox.com/games/123456789 |
+|  Game Design Document | archive/GDD_GreenAgain_v3.md |
 
 #  Gameplay
 
