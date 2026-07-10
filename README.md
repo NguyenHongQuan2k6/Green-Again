@@ -224,7 +224,7 @@ The game transforms environmental education into an engaging interactive experie
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 <!-- ===================================================== -->
 <!--          Replace these images with screenshots         -->
@@ -262,7 +262,7 @@ The game transforms environmental education into an engaging interactive experie
 
 ---
 
-# 📈 Current Progress
+#  Current Progress
 
 | Module | Status |
 |---------|--------|
