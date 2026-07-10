@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
- SSG: Green Again
+ Green Again
 </h1>
 
 <p align="center">
