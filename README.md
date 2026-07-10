@@ -2,10 +2,9 @@
 <!--                    PROJECT BANNER                     -->
 <!-- ===================================================== -->
 
+<!-- GitHub Banner cho Green Again -->
 <p align="center">
-  <!-- ================== Banner Image ================== -->
-  <!-- Replace the image below with your project banner -->
-  <img src="assets/banner/banner.png" alt="Green Again Banner" width="100%">
+  <img src="github-banner.png" alt="Green Again Project Banner" width="100%">
 </p>
 
 <h1 align="center">
